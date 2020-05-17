@@ -1,4 +1,4 @@
-console.log('client sidejavascript file is loaded !')
+
 
 
 
